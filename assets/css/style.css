@@ -1,0 +1,17 @@
+body {
+    font-family: 'Josefin Sans';
+  }
+.navbar-brand {
+  font-size: 25px;
+}
+ header, #works {
+   background-color: rgb(207, 229, 230);
+ }
+ 
+.fab {
+  color: rgb(32, 32, 32)
+}
+
+html{
+scroll-behavior:smooth;
+}
